@@ -10,6 +10,19 @@ A top-down multiplayer arena shooter set in real places across three timelines.
 
 Each era plays differently: black powder needs a reload after every shot and leaves smoke in the air, the present has magazines and sprinting, and the future has regenerating shields, bouncing plasma and a blink dash.
 
+The cities are drawn in 2.5D: buildings rise toward the camera with lit windows and rooftops, cast long shadows, and the modern and future maps play at night under street lamps and car headlights.
+
+## Characters
+
+Pick one of four time-travellers on the menu (each player picks their own in two-player games):
+
+| Character | Role | Ability |
+|---|---|---|
+| Mara Vance | Gunsmith | Reloads 35% faster |
+| Dev Okafor | Bruiser | 130 health instead of 100 |
+| Lin Tao | Runner | 12% faster, longer sprint, quicker blink |
+| Rafael Cruz | Demolitions | One extra grenade, 25% bigger blasts |
+
 ## Play
 
 Open `index.html` in a browser. No build step, no install.
